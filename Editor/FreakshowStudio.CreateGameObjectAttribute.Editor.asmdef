@@ -1,0 +1,11 @@
+{
+    "name": "FreakshowStudio.CreateGameObjectAttribute.Editor",
+    "rootNamespace": "FreakshowStudio.CreateGameObjectAttribute.Editor",
+    "references": [
+        "FreakshowStudio.CreateGameObjectAttribute.Runtime",
+        "FreakshowStudio.MenuInternals.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
