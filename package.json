@@ -1,7 +1,7 @@
 {
   "name": "com.freakshowstudio.create-gameobject-attribute",
   "displayName": "Create GameObject Attribute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "6000.0",
   "description": "An attribute for automatically creating a menu item to create a game object with the component added",
   "keywords": [],
